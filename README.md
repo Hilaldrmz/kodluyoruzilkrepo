@@ -15,7 +15,7 @@
 
 ***
 
-![anime gif](https://media.tenor.com/8fCoAFhaseUAAAAM/aesthetic-anime.gif)
+![kodluyoruz logo]([https://media.tenor.com/8fCoAFhaseUAAAAM/aesthetic-anime.gi](https://kodluyoruz.org/wp-content/uploads/2022/05/kodluyoruz_yatay_slogan-300x35.png)f)
 
 ```python
 print("hello")

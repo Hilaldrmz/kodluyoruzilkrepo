@@ -1,11 +1,11 @@
 # H1
 
 ## H2
-* qwerty
-* qwertyasdfg
+* kodluyoruz
+* kodluyoruz
 
-- qwerty
-- qwerty
+- kodluyoruz
+- kodluyoruz
 
 *italik* **Bold** ***bolditalik***
 

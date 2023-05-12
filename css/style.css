@@ -1,0 +1,45 @@
+
+/* colors */
+
+.color-porcelain { color: #F0F2F2; }
+.color-greenishyellow { color: #3C4022; }
+.color-orangyred { color: #8C4130; }
+.color-pinkflare { color: #D9C7C5; }
+.color-Charcoal { color: #323033; }
+
+/* font-size */
+
+.fs-12 { font-size:12 }
+.fs-16 { font-size: 16px }
+.fs-20 { font-size: 20px;}
+
+
+.nodecoration > * { text-decoration: none; }
+
+.highlight { background:linear-gradient (180deg, transparent 60%, #8C4130 60%); }
+
+/* divs */
+
+body {
+    background-color: #D9C7C5;
+    list-style-position: inside;
+}
+
+#header {
+    font-family: 'Dancing Script';
+    color:#3C4022;
+    font-size: 20px;
+    
+}
+
+nav > * {
+    text-decoration: none;
+    color:#F0F2F2;
+    background-color: #8C4130;
+
+}
+
+h2 {
+    font-family: 'Dancing Script';
+}
+

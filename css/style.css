@@ -18,28 +18,55 @@
 
 .highlight { background:linear-gradient (180deg, transparent 60%, #8C4130 60%); }
 
-/* divs */
 
-body {
-    background-color: #D9C7C5;
-    list-style-position: inside;
+/* Menu Box */
+
+header {
+    height: 110px;
+    position:-ms-page;
+    width: auto;
+    background-color: #F0F2F2;
+    border-radius: 15px 50px;
+    margin-top: 0%;
 }
 
-#header {
-    font-family: 'Dancing Script';
-    color:#3C4022;
-    font-size: 20px;
-    
-}
+    .logo {
+        float:left;
+        margin-top: 0.4%;
+        margin-left: 2%;
 
-nav > * {
-    text-decoration: none;
-    color:#F0F2F2;
-    background-color: #8C4130;
+    }
 
-}
+    nav > * {
+        background-color: #8C4130;
+        border-radius: 15px 50px;
+        padding-left:2%;
+        padding-right: 2%;
+        float: inline-end;
+
+        text-decoration: none;
+        color:#F0F2F2;
+        font-style: oblique;
+        font-size: x-large;
+
+    }
+
+
+
+
+/* Article */
 
 h2 {
     font-family: 'Dancing Script';
 }
 
+body {
+    background-color: #D9C7C5;
+
+}
+
+
+
+hr {
+    width:100%;
+}
